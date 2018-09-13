@@ -1,4 +1,4 @@
-# element-one-design
+# one-design-element
 
 ElementUI基于One Design标准实现
 
