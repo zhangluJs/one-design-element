@@ -15,7 +15,7 @@ npm install one-design-element -D
 
 ## Quick Start
 ```main.js
-import 'one-deisgn-element/lib/index.css';
+import 'one-deisgn-element';
 ```
 
 ## License

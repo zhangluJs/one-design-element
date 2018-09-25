@@ -1,6 +1,6 @@
 {
   "name": "one-design-element",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于element-ui进行的样式调整",
   "main": "lib/index.css",
   "scripts": {
